@@ -1,0 +1,4 @@
+    //basic transposition
+    //vignere - rotn plus
+    //alpha-> num
+    //hill cipher
